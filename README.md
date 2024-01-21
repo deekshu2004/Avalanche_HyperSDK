@@ -152,4 +152,4 @@ Load the demo private key included on the project ```./build/token-cli key impor
 ./build/token-cli key balance
 ```
 
-## Author : Sirigiri Deekshitha
+## Author : Sai Deekshitha
